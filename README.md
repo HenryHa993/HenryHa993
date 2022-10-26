@@ -1,2 +1,2 @@
-# Hi :alien:
+# Hi there. :alien:
 Welcome to the game zone.
